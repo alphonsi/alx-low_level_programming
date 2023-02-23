@@ -1,3 +1,1 @@
-This repo contains projects for laerning low level languages 
-
-1. C
+This is repo contains projects for laerning C languages
